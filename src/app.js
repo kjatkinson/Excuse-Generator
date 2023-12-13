@@ -41,7 +41,7 @@ let generatorExcuse = () => {
 
   return (
     pronoun[proIndx] +
-    "" +
+    " " +
     subject[subjIndx] +
     " " +
     action[actionIndx] +
